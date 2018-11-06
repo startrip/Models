@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 608a9c70d0a167f4b92a6f49cfef68d5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: hune:Empty_Mesh1_MeshPart0
+    100002: hune:Empty_Mesh1_MeshPart1
+    100004: //RootNode
+    100006: hune:Empty_Mesh1_MeshPart0_MeshPart0
+    100008: hune:Empty_Mesh1_MeshPart0_MeshPart1
+    100010: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart0
+    100012: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart1
+    400000: hune:Empty_Mesh1_MeshPart0
+    400002: hune:Empty_Mesh1_MeshPart1
+    400004: //RootNode
+    400006: hune:Empty_Mesh1_MeshPart0_MeshPart0
+    400008: hune:Empty_Mesh1_MeshPart0_MeshPart1
+    400010: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart0
+    400012: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart1
+    2300000: hune:Empty_Mesh1_MeshPart0
+    2300002: hune:Empty_Mesh1_MeshPart1
+    2300004: hune:Empty_Mesh1_MeshPart0_MeshPart0
+    2300006: hune:Empty_Mesh1_MeshPart0_MeshPart1
+    2300008: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart0
+    2300010: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart1
+    3300000: hune:Empty_Mesh1_MeshPart0
+    3300002: hune:Empty_Mesh1_MeshPart1
+    3300004: hune:Empty_Mesh1_MeshPart0_MeshPart0
+    3300006: hune:Empty_Mesh1_MeshPart0_MeshPart1
+    3300008: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart0
+    3300010: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart1
+    4300000: hune:Empty_Mesh1_MeshPart0
+    4300002: hune:Empty_Mesh1_MeshPart1
+    4300004: hune:Empty_Mesh1_MeshPart0_MeshPart0
+    4300006: hune:Empty_Mesh1_MeshPart0_MeshPart1
+    4300008: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart0
+    4300010: hune:Empty_Mesh1_MeshPart0_MeshPart0_MeshPart1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kanpan
+    second: {fileID: 2100000, guid: 42d56d6f0b3384a448f30a335dbb5a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line
+    second: {fileID: 2100000, guid: f12498acadf1fcd4aa973fbf3e1e1d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: naikatei
+    second: {fileID: 2100000, guid: f1265c99eb53e4847986caf6666e5ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nakakanpan
+    second: {fileID: 2100000, guid: 44f7be1e8a2303046972e8a50f459a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sentai
+    second: {fileID: 2100000, guid: 0be2dba1827a64c4ca5f95eaa72dd390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sentei
+    second: {fileID: 2100000, guid: 373aaa8d776c46040a0d6e837fd7fbd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tesri
+    second: {fileID: 2100000, guid: bf13b8c6cccbcc443bb8adeecbb5e3dd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1.1999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
